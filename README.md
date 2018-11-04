@@ -1,5 +1,5 @@
 # GroovyToolkit
-Console scripts and web interface for SmartOS and eventually others platforms. Backup, clone, migration...
+Groovy scripts and web interface for Linux and eventually others platforms. Backup, clone, migration...
 
 If you want to help us please join us in our Atlassian Jira at https://devnet.thaliasolution.com/jira/
 
