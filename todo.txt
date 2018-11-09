@@ -1,1 +1,4 @@
 
+1- Create html views
+2- Create controller and rest client
+3- Add css
