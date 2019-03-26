@@ -3,7 +3,7 @@ Groovy scripts and web interface for Linux and eventually others platforms. Back
 
 If you want to help us please join us in our Atlassian Jira at https://devnet.thaliasolution.com/jira/
 
-Our documentation in our Atlassian Confluence at: https://devnet.thaliasolution.com/conflence/
+Our documentation in our Atlassian Confluence at: https://devnet.thaliasolution.com/confluence/
 
 We manage our user with our Atlassian Crowd at https://devnet.thaliasolution.com/crowd/
 
